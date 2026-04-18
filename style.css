@@ -58,7 +58,7 @@ body{
 }
 
 .nav{
-    display:nne;
+    display: none;
     gap:1.5rem;
 }
 
